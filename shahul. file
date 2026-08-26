@@ -1,0 +1,38 @@
+  TODAY 26 AUGUST I WILL COMPLETED THE LEARNING OF GIT AND GITHUB . 
+  COMMANDS I WILL PRATICE  TILL NOW IS :
+   1.   git --version
+LOGIN : commands:--
+  1. git config -- user.name shaikshahulhameed69
+  2. git config -- user.email shaikshahulhameed69@gmail.com
+verification : to know it will connect your git configuration .
+   1. git config --list
+
+in vs code to create index.html file ....
+
+COMMANDS :---------
+  1. git init --
+  2. git status --
+  3. git add index.html
+  4. git commit -m "THIS IS FIRST VERSION V1 OF THE PROJECT"
+  5. git  log
+
+
+   TO CHANGE HTML FILE CODE -------------
+
+    COMMANDS ---------
+    1. git status ---
+    2. git diff ----
+    3. git add index.html
+    4. git status
+    5. git commit -m "THIS IS THE VERSION OF 2 "
+    6. git log
+
+TO CHANGE THE PROGRAM ONCE AGAIN , THEN THE COMMMANDS ARE:----
+
+  COMMANDS :==
+  1. git add index.html 
+  2. git commit -m "THIS IS THE VERSION OF 3"
+  3. git log
+  
+
+   
